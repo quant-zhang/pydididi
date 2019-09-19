@@ -1,0 +1,2 @@
+# pydididi
+my study road
